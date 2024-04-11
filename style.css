@@ -1,0 +1,22 @@
+.row1{
+    height: 500px auto;
+}
+.row2{
+    background: #426876;
+    height: auto;
+}
+.row3{
+    height: auto;
+}
+nav-link a:hover{
+    color: 	#005066;
+}
+.nav-item span{
+    color: 	#e4eff0;
+}
+.navbar{
+    background: #6796a8;
+}
+footer{
+    background-color: #002439;
+}
